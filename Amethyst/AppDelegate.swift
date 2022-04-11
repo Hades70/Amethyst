@@ -140,7 +140,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     @IBAction func checkForUpdates(_ sender: AnyObject) {
         #if RELEASE
-            SUUpdater.shared().checkForUpdates(sender)
+//            SUUpdater.shared().checkForUpdates(sender)
         #endif
     }
 

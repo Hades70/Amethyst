@@ -31,8 +31,8 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>SUCanaryFeedURL</key>
-	<string>https://ianyh.com/amethyst/canary-appcast.xml</string>
+	<string></string>
 	<key>SUFeedURL</key>
-	<string>https://ianyh.com/amethyst/appcast.xml</string>
+	<string></string>
 </dict>
 </plist>

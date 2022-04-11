@@ -238,7 +238,7 @@ class UserConfiguration: NSObject {
             self.hasAccessibilityPermissions = hasAccessibilityPermissions
         }
         loadConfigurationFile()
-        loadConfiguration()
+//        loadConfiguration()
     }
 
     func loadConfiguration() {
